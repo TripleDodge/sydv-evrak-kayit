@@ -1,6 +1,6 @@
 {
   "version": "4.2.0",
-  "download_url": "https://github.com/TripleDodge/sydv-evrak-kayit/releases/download/v4.1.0/SYDV_Evrak.exe",
-  "release_notes": "v4.1.0 - Güncelleme sistemi, gelişmiş filtre, klavye kısayolları, font boyutu ayarı.",
+  "download_url": "https://github.com/TripleDodge/sydv-evrak-kayit/releases/download/v4.2.0/SYDV_Evrak.exe",
+  "release_notes": "v4.2.0 - Filtre düzeltmesi ve yeni özellikler.",
   "min_version": "4.0.0"
 }
